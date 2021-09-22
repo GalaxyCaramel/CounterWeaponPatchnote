@@ -1,2 +1,9 @@
-# caramelCounterPatchnote
-CounterOnline Weapon Patch Note
+# CounterOnline 무기 패치 노트
+*이 문서는 메인 페이지의 설명만 담당합니다.*
+
+--------
+
+
+주의사항
+--------
+ - 
